@@ -43,7 +43,7 @@ The Definitions and Glossary Working Group shall not:
 
 * address certificate issuance policies and practices;
 * establish Normative Requirements;
-* specify how terms defined by the Definitions and Glossary Working Group are or may be used within documentation produced by other Charted Working Groups; nor
+* specify how terms defined by the Definitions and Glossary Working Group are or may be used within documentation produced by other Chartered Working Groups; nor
 * impede or limit the ability for any Chartered Working Group to establish its own definitions for terms used both in the scope of the Definitions and Glossary Working Group and another Chartered Working Group.
 
 ### **2. Summary of Work**
