@@ -78,7 +78,7 @@ Milestones may be modified or replaced by consensus of the Working Group, withou
 
 This Working Group shall have the following categories of membership: Certificate Consumer, Certificate Issuer, Associate Member, and Interested Party.
 
-Applicants must be members of the CSCWG, the SMCWG, or the SCWG, and may join the Definitions and Glossary Working Group only with such status or class as they hold in such other Chartered Working Groups.
+Applicants must be members of the CSCWG, the SMCWG, or the SCWG, and may join the Definitions and Glossary Working Group only with such status or class as they hold in such other Chartered Working Groups, excepting Root Certificate Issuers in the SCWG which may join the Definitions and Glossary Working Group as Certificate Issuers.
 
 In accordance with the IPR Policy, Members that choose to participate in the Definitions and Glossary Working Group must declare their participation and class of membership prior to participating. The Chair of the Definitions and Glossary Working Group shall establish a mailing list for use by the Working Group, including for declarations of participation, and manage it in accordance with the Bylaws, the IPR Policy, and the IPR Agreement. A Member must declare its participation in the Definitions and Glossary Working Group on the Working Group’s mailing list.
 
