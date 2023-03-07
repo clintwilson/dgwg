@@ -2,29 +2,25 @@
 
 The mission of the Definitions and Glossary Working Group is to: establish a document encapsulating a set of definitions for terms used within the CA/Browser Forum and its Guidelines. 
 
-**End date**: December 31, 2023
-
-**Initial Chair(s)**:
-
+**End date**: November 1, 2024
+**Initial Chair(s)**: TBD
 **Meeting Schedule**: Conference Call - Bi-Weekly, time TBD by consensus discussion in the CWG; Face-to-face discussions up to 3 times annually.
-
 **Type(s) of Voting Members Eligible to Participate**: Certificate Issuers and Certificate Consumers
-
 **Voting Structure for WG**: 2/3 of Certificate Issuers, 1/2 of Certificate Consumers
 
 ### **1.** **Working Group Scope**
 
 #### 1.1 **Summary of Working Group Goals and Objectives** 
 
-The Definitions and Glossary Working Group shall establish and specify a list of capitalized terms, with associated definitions, used within the context of work by the Forum. In order to ensure the Definitions and Glossary Working Group may define all terms relevant to the Forum, the scope of work is inclusive of the individual scopes of work identified by each Chartered Working Group or Subcommittee within the Forum. The Definitions and Glossary Working Group shall not establish Normative Requirements, nor specify how defined terms are or may be used within documentation produced by other Chartered Working Groups. The existence of a certain term, defined by the Definitions and Glossary Working Group, shall not impede or limit the ability for any Chartered Working Group to provide its own definition for the same term.
+The Definitions and Glossary Working Group shall establish and specify a list of capitalized terms, with associated definitions, used within the context of work by the Forum. In order to ensure the Definitions and Glossary Working Group may define all terms relevant to the Forum, this Working Group’s scope includes the terminology used within each Chartered Working Group or Subcommittee within the Forum. The Definitions and Glossary Working Group shall not establish Normative Requirements, nor specify how defined terms are or may be used within documentation produced by other Chartered Working Groups. The existence of a certain term, defined by the Definitions and Glossary Working Group, shall not impede or limit the ability for any Chartered Working Group to provide its own definition for the same term.
 
-The Definitions and Glossary Working Group shall produce a Final Guideline representing the set of capitalized terms and their definitions used within the CA/Browser Forum. This Final Guideline shall be produced with the intent that it may be incorporated by other Chartered Working Groups, as applicable to the scope of the various Guidelines produced within each Chartered Working Group.
+The Definitions and Glossary Working Group shall produce a Final Guideline representing a set of capitalized terms and their definitions used within the CA/Browser Forum. This Final Guideline shall be produced with the intent that it may be incorporated by other Chartered Working Groups, as applicable to the scope of the various Guidelines produced within each Chartered Working Group.
 
 The Definitions and Glossary Working Group shall maintain its published Guideline as needed to incorporate additional defined terms, to modify extant defined terms, or to remove defined terms which are no longer necessary.
 
 #### 1.2 **Success Criteria**
 
-* Prepare a Draft Guideline defining a set of terms as determined by consensus within the Definitions and Glossary Working Group;
+* Prepare a Draft Guideline;
 * Prepare a ballot to adopt the Draft Guideline as a Final Guideline within the Definitions and Glossary Working Group; and
 * Follow established ballot discussion and voting procedure to formally advance to Final Guideline the Draft Guideline.
 
@@ -41,10 +37,11 @@ The Definitions and Glossary Working Group shall:
 
 The Definitions and Glossary Working Group shall not:
 
-* address certificate issuance policies and practices;
-* establish Normative Requirements;
-* specify how terms defined by the Definitions and Glossary Working Group are or may be used within documentation produced by other Chartered Working Groups; nor
-* impede or limit the ability for any Chartered Working Group to establish its own definitions for terms used both in the scope of the Definitions and Glossary Working Group and another Chartered Working Group.
+* Address certificate management, use, and validation;
+* Address certificate issuance policies and practices;
+* Establish Normative Requirements;
+* Specify how terms defined by the Definitions and Glossary Working Group are or may be used within documentation produced by other Chartered Working Groups; nor
+* Impede or limit the ability for any Chartered Working Group to establish its own definitions for terms used both in the scope of the Definitions and Glossary Working Group and another Chartered Working Group.
 
 ### **2. Summary of Work**
 
@@ -59,7 +56,7 @@ The Definitions and Glossary Working Group will deliver the following:
 
 #### 2.2 **Other Deliverables** 
 
-No other deliverables are expected of the Definitions and Glossary Working Group
+No other deliverables are expected of the Definitions and Glossary Working Group.
 
 #### 2.3 **Milestones** 
 
@@ -78,7 +75,7 @@ Milestones may be modified or replaced by consensus of the Working Group, withou
 
 This Working Group shall have the following categories of membership: Certificate Consumer, Certificate Issuer, Associate Member, and Interested Party.
 
-Applicants must be members of the CSCWG, the SMCWG, or the SCWG, and may join the Definitions and Glossary Working Group only with such status or class as they hold in such other Chartered Working Groups, excepting Root Certificate Issuers in the SCWG which may join the Definitions and Glossary Working Group as Certificate Issuers.
+Applicants must be members of the CSCWG, the SMCWG, or the SCWG, and may join the Definitions and Glossary Working Group only with such status or class as they hold in such other Chartered Working Groups.
 
 In accordance with the IPR Policy, Members that choose to participate in the Definitions and Glossary Working Group must declare their participation and class of membership prior to participating. The Chair of the Definitions and Glossary Working Group shall establish a mailing list for use by the Working Group, including for declarations of participation, and manage it in accordance with the Bylaws, the IPR Policy, and the IPR Agreement. A Member must declare its participation in the Definitions and Glossary Working Group on the Working Group’s mailing list.
 
@@ -103,8 +100,9 @@ Votes cast before a Voting Member's resignation is announced will stand.
 The Definitions and Glossary Working Group shall coordinate with, and seek guidance from, the following other CA/Browser Forum Chartered Working Groups, as needed or applicable: 
 
 * Code Signing Certificate Working Group;
-* S/MIME Certificate Working Group; and 
-* Server Certificate Working Group.
+* Network Security Working Group;
+* Server Certificate Working Group; and
+* S/MIME Certificate Working Group.
 
 The Definitions and Glossary Working Group may coordinate with, or seek guidance from, other CA/Browser Forum Chartered Working Groups or Subcommittees as deemed appropriate by the Working Group.
 
@@ -112,7 +110,8 @@ The Definitions and Glossary Working Group may coordinate with, or seek guidance
 
 The Definitions and Glossary Working Group shall coordinate with, and seek guidance from, the following external organizations, as needed or applicable: 
 
-* Internet Engineering Task Force (IETF); and
+* Internet Engineering Task Force (IETF);
+* International Organization for Standardization (ISO); and
 * World Wide Web Consortium (W3C).
 
 The Definitions and Glossary Working Group may coordinate with, or seek guidance from, other external organizations as deemed appropriate by consensus within the Working Group.
@@ -135,6 +134,7 @@ The Definitions and Glossary Working Group is subject to the CA/Browser Forum In
 
 ### **9. About this Charter**
 
+**About this Charter**
 This charter for the Definitions and Glossary Working Group has been created according to Section 5.3.1 of the Bylaws of the CA/Browser Forum. In the event of a conflict between this charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy shall take precedence.
 
 
